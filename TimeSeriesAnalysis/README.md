@@ -1,4 +1,4 @@
-# time_series_analysis
+# TimeSeriesAnalysis
 時系列データ分析のノート
 
 参考 : 経済・ファイナンスデータの計量時系列分析 沖本竜義 著
