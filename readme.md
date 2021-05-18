@@ -7,6 +7,9 @@
 ## Directory Structure
 - Bayes : ベイズ統計
 - DeepLearning : ディープラーニング
+    - Neural Networdk
+    - CNN
+    - NLP 
 - FeatureEngineering : 特徴量エンジニアリング
 - MachineLearning : 機械学習
 - MultivariateAnalysis : 多変量解析
@@ -20,7 +23,7 @@
 ベイズ推論による機械学習入門
 
 ### ディープラーニング
-ゼロから作るディープラーニング
+ゼロから作るディープラーニング  
 ゼロから作るディープラーニング2
 
 ### 特徴量エンジニアリング
