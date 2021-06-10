@@ -7,7 +7,7 @@
 ## Directory Structure
 - Bayes : ベイズ統計
 - DeepLearning : ディープラーニング
-    - Neural Networdk
+    - Neural Network
     - CNN
     - NLP 
 - FeatureEngineering : 特徴量エンジニアリング
