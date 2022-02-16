@@ -7,7 +7,6 @@
 ## Directory Structure
 .  
 ├── Bayes  
-├── ImageProcessing  
 ├── Modeling  
 ├── MultivariateAnalysis  
 ├── NLP  
