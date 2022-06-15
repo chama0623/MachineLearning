@@ -10,6 +10,7 @@
 ├── Modeling  
 ├── MultivariateAnalysis  
 ├── NLP  
+├── QueueingTheory
 ├── Statistics
 ├── SupervisedLearning    
 ├── UnsupervisedLearning  
@@ -43,6 +44,9 @@
 - 評価関数(MSE, MAE, RMSE, 決定係数, Accuracy, Precision, Recall, F-value, ROC, AUC)  
 - モデルの評価(HoldOut, K-fold)  
 
+待ち行列理論
+- 勉強中
+
 ## Reference
 
 scikit-learnとTensorflowによる実践機械学習 Aurelien Geron 著  
@@ -56,3 +60,4 @@ Kaggleで勝つデータ分析の技術 門脇大輔, 阪田 隆司 著
 統計学入門 東京大学出版会  
 現代数理統計学の基礎 久保田達也 著  
 ベイズ推論による機械学習入門 須山敦志 著  
+待ち行列理論 大石進一 著  
